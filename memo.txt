@@ -1,0 +1,18 @@
+angel_data.csv          ok
+angel_sim.ipynb         ok
+curve_plot.csv          ok
+
+error1_eff.ipynb        ok          22
+error2_theta.ipynb      ok          27
+error3_stat.ipynb       ok          32
+error4_pos.ipynb        ok          37,42    
+error5_overlap.ipynb    ok          47
+error6_rcoin.ipynb      ok          52
+
+curve_plot.ipynb        ok
+全部RSSで足した          
+fit.cpp                 ok
+
+なんか縦のエラーバーめっちゃ小さくなる？？
+明日確認する
+各ファイルのeffとsinciのダークカウントのレートはver1とver2で違うから注意
